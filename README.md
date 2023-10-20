@@ -38,11 +38,11 @@ Kelas   : TI.22.A.1
 
 5. Selanjutnya kita akan mengatur clearfix element. Clearfix digunakan untuk mengatur element setelah float element, property clear digunakan untuk mengaturnya. Kemudian kita tambahkan element div lainnya setelah div3 seperti gambar berikut.
 
-![lab4 awal4](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/4695d03f-c4cd-4f46-a718-4144f4dc1dbb)
+![275851664-4695d03f-c4cd-4f46-a718-4144f4dc1dbb](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/e9d84357-7ec6-42be-a4aa-e5d293116c52)
 
 6. Kemudian kita atur property clear pada CSS seperti berikut.
 
-![lab4 awal5](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/4bd5e9d4-f065-4906-95a8-53dd0549689f)
+![275851718-4bd5e9d4-f065-4906-95a8-53dd0549689f](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/36b9d8b9-a4ad-4039-91a7-8d2c398f2dbe)
 
 7. Selanjutnya kita running kembali dan membuka browsernya kembali untuk melihat hasilnya seperti gambar berikut.
 
@@ -62,11 +62,12 @@ Kelas   : TI.22.A.1
 
 2. Kemudian buat kerangka layout dengan semantics element seperti berikut.
 
-![kerangka layout](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/2417d527-274c-4881-8d37-2631e81d7928)
+![275870215-2417d527-274c-4881-8d37-2631e81d7928](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/299134ae-b8cb-4f5e-a79c-8bf3d61dd508)
+
 
 3. kemudian tulis kode seperti berikut.
 
-![lab4 awal8](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/bc21b596-5ecc-4efa-bdc3-5da3ae7f5bcc)
+![275870376-bc21b596-5ecc-4efa-bdc3-5da3ae7f5bcc](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/e408fb46-01e0-4cf8-9b5b-f1f0c0a4f42e)
 
 4.  Selanjutnya kita buka kembali browser untuk melihat hasilnya seperti gambar berikut.
 
@@ -96,7 +97,7 @@ Kelas   : TI.22.A.1
 
 10. Kemudian kita buka browser lagi untuk melihat hasilnya seperti berikut.
 
-    ![Cuplikan layar 2023-10-20 083910](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/151d293a-c76f-4167-b534-47321bfd4223)
+ ![Cuplikan layar 2023-10-20 083910](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/151d293a-c76f-4167-b534-47321bfd4223)
 
 11. Selanjutnya kita akan mengatur layout main dan sidebar, tambahkan CSS float seperti berikut.
 
@@ -114,10 +115,9 @@ Kelas   : TI.22.A.1
 
 ![Cuplikan layar 2023-10-20 095015](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/491764cb-0e89-43b1-bdb4-bebf19de868e)
 
-
 15.  Setelah itu kita akan mengatur footer dengan menambahkan CSS untuk footer.
 
-![lab4 awal21](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/747be446-f69d-406c-8ddd-bb675f927967)
+ ![275871469-747be446-f69d-406c-8ddd-bb675f927967](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/10261110-3d41-42d8-a5a4-d4391fe3fcb8)
 
 16.  Kemudian kita buka kembali browser
 
@@ -125,13 +125,15 @@ Kelas   : TI.22.A.1
 
 17.  Selanjutnya kita akan menambahkan element lainnya pada main content
 
-![lab4 awal23](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8b9e7225-acad-4687-8b51-d68f253e24e7)
+![275871585-8b9e7225-acad-4687-8b51-d68f253e24e7](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/14aabf59-a107-4cd1-ba98-5add1a20da18)
+
 
 18.  Kemudian tambahkan CSS seperti berikut.
 
-![lab4 awal24](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/99dd7e58-6599-4103-b348-cdec35fda29e)
+![275871642-99dd7e58-6599-4103-b348-cdec35fda29e](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/b9750019-b70e-4073-8ac2-74e9fd90f9e5)
 
-![lab4 lanjutan awal24](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8e999014-002e-47b3-ae58-e2de4e03b5f4)
+![275871777-8e999014-002e-47b3-ae58-e2de4e03b5f4](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/ed530166-e466-43eb-9674-9c5ba41c4ccd)
+
 
 19.  Selanjutnya kita kembali membuka browser untuk melihat hasilnya
 
@@ -139,11 +141,11 @@ Kelas   : TI.22.A.1
 
 20.  Selanjutnya disini kita akan menambahkan content artikel dengan cara menambahkan HTML berikut pada main content.
 
-![lab4 awal26](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/194c12ca-b53c-4cd2-8a1c-463b3e5d3b85)
+![275872974-194c12ca-b53c-4cd2-8a1c-463b3e5d3b85](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/c991b39a-5c44-4f7a-90ce-306453e28dcd)
 
 21.  Kemudian tambahkan CSS nya seperti berikut.
 
-![lab4 awal27](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/e4498caf-16f9-4a75-83f7-48b7f5c0c619)
+![275873519-e4498caf-16f9-4a75-83f7-48b7f5c0c619](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/17e80200-88f5-4514-aa09-2928b0583d01)
 
 22.  Selanjutnya kita buka kembali browsernya untuk melihat hasil akhirnya.
 

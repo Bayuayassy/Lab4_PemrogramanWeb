@@ -98,32 +98,75 @@ Kelas   : TI.22.A.1
 
     ![Cuplikan layar 2023-10-20 083910](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/151d293a-c76f-4167-b534-47321bfd4223)
 
+11. Selanjutnya kita akan mengatur layout main dan sidebar, tambahkan CSS float seperti berikut.
 
-12. Selanjutnya kita akan mengatur layout main dan sidebar, tambahkan CSS float seperti berikut.
+![Cuplikan layar 2023-10-20 085302](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/44c6d38b-7fa6-47cd-ab5e-732f5f592735)
 
-    
+12. Setelah itu kita akan membuat sidebar widget dengan menambahkan element lain dalam sidebar seperti berikut.
 
-13. Setelah itu kita akan membuat sidebar widget dengan menambahkan element lain dalam sidebar seperti berikut.
+![Cuplikan layar 2023-10-20 085313](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/72c06b9e-94ce-4a0f-bcc0-1f50dd841ce2)
 
-14. Kemudian tambahkan CSS seperti gambar berikut.
+13. Kemudian tambahkan CSS seperti gambar berikut.
 
-15. Selanjutnya kita buka browser kembali untuk melihat hasilnya.
+![Cuplikan layar 2023-10-20 085445](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/5e9df3c4-3448-453b-ae8e-6df7b11975e2)
 
-16. Setelah itu kita akan mengatur footer dengan menambahkan CSS untuk footer.
+14.  Selanjutnya kita buka browser kembali untuk melihat hasilnya
 
-17. Kemudian kita buka kembali browser
+![Cuplikan layar 2023-10-20 095015](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/491764cb-0e89-43b1-bdb4-bebf19de868e)
 
-18.  Selanjutnya kita akan menambahkan element lainnya pada main content
 
-19.  Kemudian tambahkan CSS seperti berikut.
+15.  Setelah itu kita akan mengatur footer dengan menambahkan CSS untuk footer.
 
-20.  Selanjutnya kita kembali membuka browser untuk melihat hasilnya
+![lab4 awal21](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/747be446-f69d-406c-8ddd-bb675f927967)
 
-21.  Selanjutnya disini kita akan menambahkan content artikel dengan cara menambahkan HTML berikut pada main content.
+16.  Kemudian kita buka kembali browser
 
-22.  Kemudian tambahkan CSS nya seperti berikut.
+![Cuplikan layar 2023-10-20 095128](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/3ce0e492-1119-4c07-9003-0b1732b64d18)
 
-23.  Selanjutnya kita buka kembali browsernya untuk melihat hasil akhirnya.
+17.  Selanjutnya kita akan menambahkan element lainnya pada main content
+
+![lab4 awal23](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8b9e7225-acad-4687-8b51-d68f253e24e7)
+
+18.  Kemudian tambahkan CSS seperti berikut.
+
+![lab4 awal24](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/99dd7e58-6599-4103-b348-cdec35fda29e)
+
+![lab4 lanjutan awal24](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8e999014-002e-47b3-ae58-e2de4e03b5f4)
+
+19.  Selanjutnya kita kembali membuka browser untuk melihat hasilnya
+
+![Cuplikan layar 2023-10-20 095149](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/aafe9d28-210f-4047-b822-84edf6fa1fe6)
+
+20.  Selanjutnya disini kita akan menambahkan content artikel dengan cara menambahkan HTML berikut pada main content.
+
+![lab4 awal26](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/194c12ca-b53c-4cd2-8a1c-463b3e5d3b85)
+
+21.  Kemudian tambahkan CSS nya seperti berikut.
+
+![lab4 awal27](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/e4498caf-16f9-4a75-83f7-48b7f5c0c619)
+
+22.  Selanjutnya kita buka kembali browsernya untuk melihat hasil akhirnya.
+
+![Cuplikan layar 2023-10-20 095214](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/7f12177c-f6b1-480a-8a96-ab08506a144a)
+
+23. Lakukan validasi dokumen HTML dengan mengakses http://validator.w3.org/
+
+![Cuplikan layar 2023-10-20 095920](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/95720301-954b-457c-a65d-e81ed1096edc)
+
+![276534015-554bf716-c1ae-41bb-8f28-98e2d24a78fb](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/127780dc-c15c-4e4d-97b4-c020daaed1c9)
+
+
+
+# Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu `About` => buat single layout yang berisi deskripsi, portfolio, dll.
+   
+![Cuplikan layar 2023-10-20 084808](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/e2b02471-bd77-49fb-a7e4-8ff2021ab671)
+
+2. Tambahkan layout untuk menu `Contact` => yang berisi form isian: nama, email, message, dll.
+   
+![Cuplikan layar 2023-10-20 084927](https://github.com/Bayuayassy/Lab4_PemrogramanWeb/assets/115678251/0de92119-33f6-4c1f-925d-d31630cf1c45)
+
+
 
 
 
